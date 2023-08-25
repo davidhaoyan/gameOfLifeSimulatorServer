@@ -1,0 +1,5 @@
+#CSYNTH xp30_w33z8kqrqk8zzzx33 costs 6 gliders (true).
+#CLL state-numbering golly
+x = 64, y = 13, rule = B3/S23
+o$b2o43bobo$2o45b2o$4b3o40bo14b2o$6bo55b2o$5bo$50bo$37b2o11b2o$38b
+2o9bobo$37bo$53b3o$53bo$54bo!
